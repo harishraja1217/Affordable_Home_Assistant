@@ -16,7 +16,7 @@ The Featues include :
 6) Burglar Alarm (PIR Sensor)
 7) Solar Panel (for microcontroller)
 8) CCTV Monitoring 
-9) Automatic Pet Feeding System
+9) Automatic Pet Feeding System (Time based)
 10) Voice Control
 11) GUI Touch Display (for Monitoring)
 12) Android App (to Monitor & Control)
