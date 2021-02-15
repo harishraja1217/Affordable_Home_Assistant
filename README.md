@@ -1,4 +1,4 @@
-# Home Automation and Remote Control using Arduino Uno Rev.3 Microcontroller
+# Home Automation and Remote Control using Arduino Uno Rev.3 Microcontroller #
 
 This is a 2nd Year 4th Semester EEE Miniproject
 Done by 
