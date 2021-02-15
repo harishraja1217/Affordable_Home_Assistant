@@ -1,10 +1,10 @@
-# Home_Automation_and_Remote_Control using Arduino Uno Rev.3 Microcontroller
+# Home Automation and Remote Control using Arduino Uno Rev.3 Microcontroller
 
-#This is a 2nd Year 4th Semester EEE Miniproject
-#Done by 
-#Harish Raja .M, 19BEE050
-#Edmond Gracious Raj .A .F, 19BEE032
-#Sastha .S, 19BEE042
+This is a 2nd Year 4th Semester EEE Miniproject
+Done by 
+Harish Raja .M, 19BEE050
+Edmond Gracious Raj .A .F, 19BEE032
+Sastha .S, 19BEE042
 
 The Featues include :
 
