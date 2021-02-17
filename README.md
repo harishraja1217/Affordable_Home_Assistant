@@ -9,14 +9,15 @@ Sastha .S, 19BEE042;
 The Featues include :
 
 Hardware:
-	1) Home Appliances Control
-	2) Water Tank Monitoring & Circuit Breaker 
-	3) Fire Alarm
-	4) Burglar Alarm
-	5) Solar Panel
+1) Home Appliances Control
+2) Water Tank Monitoring & Circuit Breaker 
+3) Fire Alarm
+4) Burglar Alarm
+5) Solar Panel
+
 Software:
-	1) CCTV
-	2) Voice Control
-	3) Touchscreen Interface
-	4) Android App 
-	5) Google Assistant integration with speaker
+1) CCTV
+2) Voice Control
+3) Touchscreen Interface
+4) Android App 
+5) Google Assistant integration with speaker
