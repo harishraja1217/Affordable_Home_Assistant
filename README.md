@@ -1,4 +1,4 @@
-# Affordable Home Assistant using Arduino Uno Rev.3 Microcontroller (WORK IN PROGRESS)
+# "Affordable Home Assistant" using Arduino Uno Rev.3 Microcontroller (WORK IN PROGRESS)
 
 This is a 2nd Year 4th Semester EEE Miniproject
 Done by 
